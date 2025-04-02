@@ -1,4 +1,4 @@
-import Project from '../components/Project';
+import Project from '../components/project';
 import project1Image from '../assets/project1.jpg';
 import project2Image from '../assets/project2.jpg';
 // Import other project images

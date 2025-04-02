@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom';
-import Navigation from './Navigation';
+import Navigation from './navigation';
 
 function Header() {
   return (
